@@ -1,8 +1,9 @@
 ------ 3.0.5 ( 10 Oct 2023 ) ------
-Tweak : WooCommerce template outdated files updated
-Fixed : Compatible with latest WordPress version (6.2.2.x)
-Fixed : Compatible with latest WooCommerce version compatible.
-Tweak : Updated demo content
+Update : WooCommerce template outdated files updated
+Update : TGM Plugin active function updated
+Fixed  : Compatible with latest WordPress version (6.3.1.x)
+Fixed  : Compatible with latest WooCommerce version compatible.
+Update : Updated demo content
 
 ------ 3.0.4 ( 18 June 2023 ) ------
 Tweak : WooCommerce template outdated files updated

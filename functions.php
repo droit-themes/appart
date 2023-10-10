@@ -123,7 +123,10 @@ require get_template_directory() . '/options/opt-config.php';
 /**
  * Required plugins activation
  */
-require get_template_directory() . '/inc/plugin_activation.php';
+
+require get_template_directory() . '/inc/tgm/class-plugins.php';
+require get_template_directory() . '/inc/tgm/tgm-plugin-activation.php';
+require get_template_directory() . '/inc/tgm/tgm-plugin-registration.php';
 
 
 /**

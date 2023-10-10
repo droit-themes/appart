@@ -35,6 +35,7 @@ function appart_register_required_plugins() {
 	 * If the source is NOT from the .org repo, then source is also required.
 	 */
 	$plugins = array(
+		
         array(
             'name'               => esc_html__('Appart core', 'appart'), // The plugin name.
             'slug'               => 'appart-core', // The plugin slug (typically the folder name).
