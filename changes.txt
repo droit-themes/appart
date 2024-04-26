@@ -1,3 +1,7 @@
+------ 3.0.6 ( 26 April 2024 ) ------
+Update : Plugin install issue solved
+Update : Compatible with latest WooCommerce version compatible.
+
 ------ 3.0.5 ( 10 Oct 2023 ) ------
 Update : WooCommerce template outdated files updated
 Update : TGM Plugin active function updated
